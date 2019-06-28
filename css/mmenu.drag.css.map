@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AACC,oBADmB,CACnB,QAAQ;AADT,oBAAoB,CAEnB,YAAY,CAAC;EACZ,mBAAmB,EAAE,aAAa;CAClC",
+    "sources": [
+        "../app/libs/mmenu-js-master/src/addons/drag/mmenu.drag.scss",
+        "../app/libs/mmenu-js-master/src/_mixins.scss",
+        "../app/libs/mmenu-js-master/src/_includes.scss",
+        "../app/libs/mmenu-js-master/src/_variables.scss"
+    ],
+    "names": [],
+    "file": "mmenu.drag.css"
+}

@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AAEC,kBAFiB,CAEjB,kBAAkB;AADnB,mBAAmB,CAClB,kBAAkB,CAAC;EAClB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,MAAM;CACnB",
+    "sources": [
+        "../app/libs/mmenu-js-master/src/extensions/multiline/mmenu.multiline.scss",
+        "../app/libs/mmenu-js-master/src/_mixins.scss",
+        "../app/libs/mmenu-js-master/src/_includes.scss",
+        "../app/libs/mmenu-js-master/src/_variables.scss"
+    ],
+    "names": [],
+    "file": "mmenu.multiline.css"
+}
